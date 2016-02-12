@@ -33,3 +33,6 @@ C:\Users\DylanIsaac\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\Prototi
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\DylanIsaac\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\DylanIsaac\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\DylanIsaac\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
