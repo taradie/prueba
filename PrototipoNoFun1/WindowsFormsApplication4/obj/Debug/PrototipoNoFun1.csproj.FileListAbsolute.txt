@@ -33,6 +33,7 @@ C:\Users\DylanIsaac\Documents\GitHub\IngenieriaDeSoftware\BenchMarking 1\Prototi
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+<<<<<<< HEAD
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\PrototipoNoFun1.csprojResolveAssemblyReference.cache
@@ -49,3 +50,8 @@ C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.frmSedes.resources
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
 C:\Users\Diego\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\PrototipoNoFun1.csproj.GenerateResource.Cache
+=======
+C:\Users\DylanIsaac\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\DylanIsaac\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\DylanIsaac\Documents\GitHub\prueba\PrototipoNoFun1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+>>>>>>> 37a85adcbcec16dd1935ddf44db73be36e7b7195
